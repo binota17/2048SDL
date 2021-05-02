@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1619886375 source:d:\2048\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Variables.h"
+	"Board.h"
+	"Check.h"
+	"Texture.h"
+
+1619883213 d:\2048\variables.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1619883065 d:\2048\board.h
+	"Variables.h"
+
+1619883138 d:\2048\check.h
+	"Variables.h"
+	"Texture.h"
+
+1619626067 d:\2048\texture.h
+	"Variables.h"
+	"Board.h"
+	"Check.h"
+
+1619883241 source:d:\2048\board.cpp
+	"Board.h"
+	"Variables.h"
+	"Texture.h"
+
+1619883127 source:d:\2048\check.cpp
+	"Check.h"
+
+1619626323 source:d:\2048\texture.cpp
+	"Texture.h"
+
+1619883174 source:d:\2048\variables.cpp
+	"Variables.h"
+
